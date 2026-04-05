@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- <h3 align="center">🚀 Java Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
+ <h3 align="center"> Java Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Engineering Student (Mumbai University)
-- 💻 Java Full Stack Developer (JSP, JDBC, MVC)
-- 📊 Strong in DSA & OOP
-- 🌱 Currently learning **System Design & Advanced Backend**
-- 🏆 Winner – TCET ACM Technologia Event
-- ⚡ Solved **110+ DSA problems on LeetCode**
+##  About Me
+-  Computer Engineering Student (Mumbai University)
+-  Java Full Stack Developer (JSP, JDBC, MVC)
+-  Strong in DSA & OOP
+-  Currently learning **System Design & Advanced Backend**
+-  Winner – TCET ACM Technologia Event
+-  Solved **120+ DSA problems on LeetCode**
 
 ---
 
@@ -67,5 +67,5 @@
 
 ---
 
-## ⚡ Fun Fact
-> I build full-stack systems and solve DSA problems like puzzles 🧠🔥
+##  Fun Fact
+> I build full-stack systems and solve DSA problems like puzzles.
