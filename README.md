@@ -1,20 +1,18 @@
 <!-- PROFILE HEADER -->
-<div align="center"><picture>
- <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Yashkumar%20Gupta&fontColor=FFFFFF"/>
-</picture>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Yashkumar%20Gupta&fontColor=FFFFFF"/>
+</p>
 
-<br>
-<div align="center">
-
-<h3 align="center">🚀 Java Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
+<p align="center">
+ <h3 align="center">🚀 Java Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Always+Learning+🚀&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash29122006&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=yash29122006&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -32,24 +30,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<img src="https://skillicons.dev/icons?i=java" />
 
 ### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,eclipse" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,eclipse" />
 
 ---
 
@@ -63,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
