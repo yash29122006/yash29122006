@@ -1,5 +1,12 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<div align="center"><picture>
+ <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Yashkumar%20Gupta&fontColor=FFFFFF"/>
+</picture>
+</div>
+
+<br>
+<div align="center">
+
 <h3 align="center">🚀 Java Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
 
 <p align="center">
@@ -47,11 +54,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://stats.dooboo.io/api?username=yash29122006&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://stats.dooboo.io/api/top-langs/?username=yash29122006&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yash29122006&theme=tokyonight&hide_border=true" />
