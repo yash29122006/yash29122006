@@ -46,55 +46,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 ID Card Generator System
-- 🧠 Java Web App using JSP, JDBC, MySQL  
-- 🔐 Role-based authentication (Admin & Student)  
-- 🔄 Full CRUD operations  
-👉 https://github.com/yash29122006/Java-web-Project  
-
----
-
-### 🔹 Event Dashboard
-- 🌐 Interactive UI for college events  
-- 🗳️ Voting + seat tracking system  
-👉 https://yash29122006.github.io/Club-Dashboard/  
-
----
-
-### 🔹 Login/Logout System
-- 🔐 Authentication system using JSP & JDBC  
-- 📊 Session handling + validation  
-👉 https://github.com/yash29122006/Login-logout-using-JDBC-  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash29122006&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://stats.dooboo.io/api?username=yash29122006&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://stats.dooboo.io/api/top-langs/?username=yash29122006&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash29122006&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=yash29122006&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash29122006&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-- 🥇 Winner – TCET ACM Technologia  
-- 💡 Solved 110+ DSA Problems  
-
----
-
-## 📜 Certifications
-- 📘 Scaler Java DSA Course  
-- 🎓 Java Training – EduPyramids (IIT Bombay SINE)  
 
 ---
 
